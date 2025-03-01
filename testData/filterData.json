@@ -1,0 +1,47 @@
+{
+    "1":{
+        "make_and_model":"toyota camry",
+        "year_minimum": "2008",
+        "year_maximum": "2013",
+        "miles_minimum": "0",
+        "miles_maximum": "130000",
+        "price_minimum": "3000",
+        "price_maximum": "5000"
+    },
+    "2":{
+        "make_and_model":"tesla x",
+        "year_minimum": "2015",
+        "year_maximum": "2025",
+        "miles_minimum": "0",
+        "miles_maximum": "100000",
+        "price_minimum": "0",
+        "price_maximum": "35000"
+    },
+    "3":{
+        "make_and_model":"ford f-150",
+        "year_minimum": "2010",
+        "year_maximum": "2025",
+        "miles_minimum": "0",
+        "miles_maximum": "60000",
+        "price_minimum": "0",
+        "price_maximum": "45000"
+    },
+    "4":{
+        "make_and_model":"mercedes-benz gle",
+        "year_minimum": "0",
+        "year_maximum": "2025",
+        "miles_minimum": "0",
+        "miles_maximum": "50000",
+        "price_minimum": "0",
+        "price_maximum": "50000"
+    },
+    "5":{
+        "make_and_model":"bmw x3",
+        "year_minimum": "2010",
+        "year_maximum": "2025",
+        "miles_minimum": "0",
+        "miles_maximum": "45000",
+        "price_minimum": "0",
+        "price_maximum": "35000"
+    }
+}
